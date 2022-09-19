@@ -1,0 +1,4 @@
+﻿  Stack.c
+C:\Users\User\source\repos\Stack\Stack\Stack.c(23,8): warning C4013: 'time' undefined; assuming extern returning int
+C:\Users\User\source\repos\Stack\Stack\Stack.c(28,8): warning C4013: 'getch' undefined; assuming extern returning int
+  Stack.vcxproj -> C:\Users\User\source\repos\Stack\x64\Debug\Stack.exe
